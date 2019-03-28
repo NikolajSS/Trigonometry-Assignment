@@ -8,7 +8,7 @@ void opgave3()
     printf("You chose to calculate the area of an arbitrary triangle.\n");
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
     c1 = (sin(C1)*180/PI)*(a1)/(sin(A1)*180/PI);
-    printf("The area of the triangle isa: %.2f\n", c1);
+    printf("The area of the triangle is: %.2f\n", c1);
 
 
 
