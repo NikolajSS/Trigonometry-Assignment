@@ -1,6 +1,6 @@
 #include "Prototype.h"
 
-void calculateArea()
+void opgave1()
 {
     float a, b, c, s, area;
     printf("You chose to calculate the area of an arbitrary triangle.\n");
