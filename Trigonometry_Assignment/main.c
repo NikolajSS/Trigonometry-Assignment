@@ -12,4 +12,7 @@ switch (taskNumber)
     case 1:
         (calculateArea);
     break;
+    default:
+        printf("You have to input a number between 1 and 7");
+}
 }
