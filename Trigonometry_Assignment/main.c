@@ -17,6 +17,7 @@ void calculateArea()
 {
     printf("You chose to calculate the area of an arbitrary triangle.\n");
     printf("Enter side a: \n");
+    scanf("%")
     printf("Enter side b: \n");
     printf("Enter side c: \n");
 }
