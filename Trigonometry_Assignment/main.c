@@ -13,7 +13,7 @@ printf("\nYou chose the nummer %d\n", taskNumber);
 
 loading();
 
-do {
+
 switch (taskNumber)
 {
     case 1:
@@ -34,7 +34,7 @@ switch (taskNumber)
     loading();
 
 }
-}while(taskNumber != 1||2||3||4||5||6||7);
+
 }
 
 
