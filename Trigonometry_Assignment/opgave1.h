@@ -15,3 +15,4 @@ void opgave1()
     area = sqrt(s*(s-a)*(s-b)*(s-c));
     printf("The area of the triangle is: %f", area);
 }
+
