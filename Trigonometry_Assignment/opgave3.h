@@ -2,15 +2,19 @@
 
 void opgave3()
 {
-    float a, b, c, angelC;
+    float A1, C1, a1, c1
+    float A2, C2, a2, c2;
+
+
+
     printf("You chose to calculate the area of an arbitrary triangle.\n");
     printf("Enter side a: \n");
-    scanf("%f",&a);
+    scanf("%f",&A2);
     printf("Enter side b: \n");
-    scanf("%f",&b);
+    scanf("%f",&C2);
     printf("Enter side c: \n");
-    scanf("%f",&c);
+    scanf("%f",&a2);
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
-    angelC = acos(((pow(a,2)+pow(b,2)-pow(c,2))/(2*a*b)))*180/PI;
+    c2 = ;
     printf("The area of the triangle is: %.2f\n", angelC);
 }

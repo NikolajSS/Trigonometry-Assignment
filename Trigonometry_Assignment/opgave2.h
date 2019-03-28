@@ -1,10 +1,10 @@
 #include "Bio.h"
-#define PI 3.14159265358979323846
+
 
 
 void opgave2()
 {
-    float a, b, c, angelC;
+    float a, b, c, angelA, angelB, angelC;
     printf("You chose to calculate the area of an arbitrary triangle.\n");
     printf("Enter side a: \n");
     scanf("%f",&a);

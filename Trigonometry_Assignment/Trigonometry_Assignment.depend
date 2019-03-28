@@ -53,7 +53,7 @@
 
 1553779815 c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\opgave2.c
 
-1553790935 source:c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\main.c
+1553794378 source:c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\main.c
 	"Bio.h"
 	"Opgaverne.h"
 	"Extra.h"
@@ -82,10 +82,10 @@
 1553793360 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave1.h
 	"Bio.h"
 
-1553793412 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave2.h
+1553794329 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave2.h
 	"Bio.h"
 
-1553789056 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\bio.h
+1553794293 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\bio.h
 	<stdio.h>
 	<math.h>
 	<stdlib.h>
@@ -94,6 +94,6 @@
 1553790206 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\extra.h
 	"Bio.h"
 
-1553793332 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave3.h
+1553794351 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave3.h
 	"Bio.h"
 
