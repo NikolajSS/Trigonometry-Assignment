@@ -1,7 +1,12 @@
 #include "Prototype.h"
 #include "Opgaverne.h"
+<<<<<<< HEAD
 
 void calculateArea();
+=======
+#include "opgave1.c"
+#include "opgave2.c"
+>>>>>>> 9c93fa30d2cb83468e4b39ffec9acf4666918bf9
 
 int main()
 {
@@ -13,13 +18,16 @@ scanf("&d",&taskNumber);
 switch (taskNumber)
 {
     case 1:
-        (calculateArea);
+    calculateArea();
     break;
     default:
         printf("You have to input a number between 1 and 7");
 }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9c93fa30d2cb83468e4b39ffec9acf4666918bf9
 void calculateArea()
 {
     float a, b, c, s, area;
