@@ -31,6 +31,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Bio.h" />
 		<Unit filename="Extra.h" />
 		<Unit filename="Opgaverne.h" />
 		<Unit filename="Prototype.h" />

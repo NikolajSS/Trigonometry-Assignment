@@ -1,4 +1,4 @@
-#include "Prototype.h"
+#include "Bio.h"
 
 void opgave2()
 {
