@@ -46,6 +46,7 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="opgave2.h" />
+		<Unit filename="opgave3.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

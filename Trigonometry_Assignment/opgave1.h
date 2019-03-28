@@ -13,6 +13,6 @@ void opgave1()
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
     s = (a+b+c)/2;
     area = sqrt(s*(s-a)*(s-b)*(s-c));
-    printf("The area of the triangle is: %f", area);
+    printf("The area of the triangle is: %f\n", area);
 }
 

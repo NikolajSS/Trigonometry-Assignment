@@ -21,6 +21,8 @@ switch (taskNumber)
     break;
     case 2:
     opgave2();
+    case 3:
+    opgave3();
     default:
     printf("You have to input a number between 1 and 7\n");
     scanf("%d", &taskNumber);

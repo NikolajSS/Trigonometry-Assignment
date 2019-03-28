@@ -10,18 +10,3 @@ void loading()
     Sleep(200);
 }
 
-void Errornr(taskNumber)
-{
-    scanf("%d", &taskNumber);
-    switch (taskNumber)
-{
-    case 1:
-    opgave1();
-    break;
-    case 2:
-    opgave2();
-    default:
-    printf("You have to input a number between 1 and 7\n");
-
-}
-}
