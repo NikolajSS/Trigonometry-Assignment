@@ -2,7 +2,7 @@
 
 void opgave3()
 {
-    float A1, C1, a1, c1
+ /*   float A1, C1, a1, c1*/
     float A2, C2, a2, c2;
 
 
@@ -15,6 +15,6 @@ void opgave3()
     printf("Enter side c: \n");
     scanf("%f",&a2);
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
-    c2 = ;
-    printf("The area of the triangle is: %.2f\n", angelC);
+    c2 = (sin(C2)*180/PI)*(a2)/(sin(A2)*180/PI);
+    printf("The area of the triangle is: %.2f\n", c2);
 }
