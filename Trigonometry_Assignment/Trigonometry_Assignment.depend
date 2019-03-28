@@ -5,10 +5,10 @@
 
 1553780070 source:c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave2.c
 
-1553781193 source:c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave1.c
+1553782228 source:c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave1.c
 	"Prototype.h"
 
-1553781154 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\prototype.h
+1553781615 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\prototype.h
 	<stdio.h>
 	<math.h>
 	<stdlib.h>
@@ -25,15 +25,15 @@
 	<stdlib.h>
 	<windows.h>
 
-1553780993 source:c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\main.c
+1553782394 source:c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\main.c
 	"Prototype.h"
 	"Opgaverne.h"
 
-1553780070 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgaverne.h
+1553781626 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgaverne.h
 	"opgave1.c"
 	"opgave2.c"
 
-1553781193 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave1.c
+1553782228 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave1.c
 	"Prototype.h"
 
 1553780070 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave2.c
