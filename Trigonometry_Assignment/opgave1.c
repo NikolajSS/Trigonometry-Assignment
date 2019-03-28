@@ -13,5 +13,5 @@ void calculateArea()
     // Herons formel: s = (a+b+c)/2
     s = (a+b+c)/2;
     area = sqrt(s*(s-a)*(s-b)*(s-c));
-    printf("The area of the triangle is: %f", areal);
+    printf("The area of the triangle is: %f", area);
 }

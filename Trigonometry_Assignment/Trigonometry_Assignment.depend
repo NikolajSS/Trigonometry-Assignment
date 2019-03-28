@@ -1,3 +1,16 @@
 # depslib dependency file v1.0
+<<<<<<< HEAD
 1553779815 source:c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\opgave2.c
+=======
+1553780070 source:c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave2.c
+
+1553780686 source:c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave1.c
+	"Prototype.h"
+
+1553780666 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\prototype.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+>>>>>>> d32e1f5a5605364747e0c2faed4385d17707dc66
 
