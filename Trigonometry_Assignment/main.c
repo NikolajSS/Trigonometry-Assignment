@@ -3,5 +3,5 @@
 
 int main()
 {
-printf("This is a program that does trigonometry.")
+printf("This is a program that does trigonometry.");
 }
