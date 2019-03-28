@@ -1,6 +1,8 @@
+#include "Prototype.h"
+
 void calculateArea()
 {
-    float a, b, c
+    float a, b, c, s, area;
     printf("You chose to calculate the area of an arbitrary triangle.\n");
     printf("Enter side a: \n");
     scanf("%",&a);
@@ -8,4 +10,5 @@ void calculateArea()
     scanf("%f",&b);
     printf("Enter side c: \n");
     scanf("%f",&c);
+    s = sqrt(s*)
 }
