@@ -16,7 +16,7 @@
 
 1553780666 e1f5a5605364747e0c2faed4385d17707dc66
 
-1553782701 source:c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\opgave1.c
+1553782789 source:c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\opgave1.c
 	"Prototype.h"
 
 1553781489 c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\prototype.h
@@ -38,15 +38,17 @@
 
 1553780070 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave2.c
 
-1553782228 source:c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\main.c
+1553782784 source:c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\main.c
 	"Prototype.h"
 	"Opgaverne.h"
+	"opgave1.c"
+	"opgave2.c"
 
 1553780003 c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\opgaverne.h
 	"opgave1.c"
 	"opgave2.c"
 
-1553782261 c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\opgave1.c
+1553782789 c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\opgave1.c
 	"Prototype.h"
 
 1553779815 c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\opgave2.c
