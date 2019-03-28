@@ -16,3 +16,4 @@ void opgave1()
     printf("The area of the triangle is: %f\n", area);
 }
 
+

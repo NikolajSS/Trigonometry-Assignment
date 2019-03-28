@@ -9,4 +9,3 @@ void loading()
     printf(".\n\n");
     Sleep(200);
 }
-
