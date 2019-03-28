@@ -1,9 +1,9 @@
 #include "Bio.h"
-
+#define PI 3.14159265358979323846
 void opgave4()
 {
-    double c1=30, b1=14, C1=110, B1;
-    double c2, b2, C2, B2, val;
+    float c1=30, b1=14, C1=110, B1;
+    float c2, b2, C2, B2, val;
     val = 180 / PI;
 
     printf("You chose to calculate the area of an arbitrary triangle.\n");
@@ -22,7 +22,7 @@ void opgave4()
     scanf("%f",&C2);
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
 
-    B2 = asin(1);
-    printf("The area of the triangle is: %f\n", B2);
+    B2 = (sin(60))*180/PI;
+    printf("The area of the triangle is: %.2f\n", B2);
 }
 
