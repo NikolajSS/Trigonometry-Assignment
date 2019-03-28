@@ -30,9 +30,8 @@ switch (taskNumber)
     break;
     default:
     printf("You have to input a number between 1 and 7\n");
-    scanf("%d", &taskNumber);
     loading();
-
+    main();
 }
 
 }
