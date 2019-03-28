@@ -1,8 +1,5 @@
 #include "Prototype.h"
 #include "Opgaverne.h"
-#include "opgave1.c"
-#include "opgave2.c"
-
 
 int main()
 {
@@ -20,7 +17,6 @@ switch (taskNumber)
         printf("You have to input a number between 1 and 7");
 }
 }
-
 
 
 

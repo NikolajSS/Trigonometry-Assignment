@@ -53,3 +53,30 @@
 
 1553779815 c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\opgave2.c
 
+1553787265 source:c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\main.c
+	"Prototype.h"
+	"Opgaverne.h"
+
+1553787068 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\prototype.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+
+1553787478 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgaverne.h
+	"opgave1.h"
+	"opgave2.h"
+
+1553787012 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave1.c
+	"Prototype.h"
+
+1553786169 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave2.c
+
+1553787420 source:c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave1.c
+	"Prototype.h"
+
+1553786169 source:c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave2.c
+
+1553787478 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave1.h
+	"Prototype.h"
+
