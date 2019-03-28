@@ -1,5 +1,5 @@
 #include "Prototype.h"
-
+#include "Opgaverne.h"
 int main()
 {
 printf("This is a program that does trigonometry.\n");
