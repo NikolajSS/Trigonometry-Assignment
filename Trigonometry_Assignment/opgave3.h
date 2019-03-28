@@ -1,9 +1,9 @@
 #include "Bio.h"
 
-void opgave3()
-{
     float A1 = 37, C1=81, a1=50, c1;
     float A2, C2, a2, c2;
+void opgave3()
+{
 
     printf("You chose to calculate the area of an arbitrary triangle.\n");
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
