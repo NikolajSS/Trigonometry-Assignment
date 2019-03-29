@@ -1,25 +1,43 @@
-#include "Prototype.h"
+#include "Bio.h"
+#include "Opgaverne.h"
+#include "Extra.h"
 
 int main()
 {
+int taskNumber;
 printf("This is a program that does trigonometry.\n");
-printf("To calculate the area of an arbitrary triangle, press 1 (opgave 1)");
-scanf("&d",&option);
+printf("To calculate the area of an arbitrary triangle, press 1 (opgave 1)\n\n");
+scanf("%d", &taskNumber);
 
-switch (option)
+printf("\nYou chose the nummer %d\n", taskNumber);
+
+loading();
+
+
+switch (taskNumber)
 {
     case 1:
-        (calculateArea);
+    opgave1();
+    break;
+    case 2:
+    opgave2();
+    break;
+    case 3:
+    opgave3();
+    break;
+    case 4:
+    opgave4();
+    break;
+    case 5:
+    opgave5();
+    break;
+    default:
+    printf("You have to input a number between 1 and 7\n");
+    loading();
+    main();
 }
 
-void calculateArea()
-{
-    float a, b, c
-    printf("You chose to calculate the area of an arbitrary triangle.\n");
-    printf("Enter side a: \n");
-    scanf("%",&a);
-    printf("Enter side b: \n");
-    scanf("%f",&b);
-    printf("Enter side c: \n");
-    scanf("%f",&c);
 }
+
+
+
