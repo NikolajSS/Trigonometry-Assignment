@@ -31,12 +31,33 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+<<<<<<< HEAD
 		<Unit filename="Walid.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="opgave2.c">
 			<Option compilerVar="CC" />
 		</Unit>
+=======
+		<Unit filename="Bio.h" />
+		<Unit filename="Extra.h" />
+		<Unit filename="Opgaverne.h" />
+		<Unit filename="Prototype.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="opgave1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="opgave1.h" />
+		<Unit filename="opgave2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="opgave2.h" />
+		<Unit filename="opgave3.h" />
+		<Unit filename="opgave4.h" />
+		<Unit filename="opgave5.h" />
+>>>>>>> 44ed9426a9d48260209b5ad4cfe84ce43a8581b8
 		<Extensions>
 			<code_completion />
 			<envvars />

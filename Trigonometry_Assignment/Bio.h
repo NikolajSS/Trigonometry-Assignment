@@ -2,5 +2,4 @@
 #include <math.h>
 #include <stdlib.h>
 #include <windows.h>
-#include "opgave1.c"
-
+#define PI 3.14159265358979323846
