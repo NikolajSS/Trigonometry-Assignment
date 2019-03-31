@@ -1,5 +1,4 @@
 #include "Bio.h"
-#define PI 3.14159265358979323846
 
 
 void opgave4()
