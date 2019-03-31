@@ -1,5 +1,7 @@
 # depslib dependency file v1.0
-2001293311 ;pos=157;prop=100000;bestw=185;besth=23;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=FortranProjectToolbar;caption=FortranProject Toolbar;state=2108156;dir=1;layer=10;row=1;pos=353;prop=100000;bestw=69;besth=23;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=IncrementalSearchToolbar;caption=IncrementalSearch Toolbar;state=2108156;dir=1;layer=10;row=1;pos=433;prop=100000;bestw=329;besth=23;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=NassiShneidermanPluginToolbar;caption=NassiShneidermanPlugin Toolbar;state=2108156;dir=1;layer=10;row=1;pos=773;prop=100000;bestw=393;besth=23;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ThreadSearchToolbar;caption=ThreadSearch Toolbar;state=2108156;dir=1;layer=10;row=1;pos=1177;prop=100000;bestw=176;besth=23;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=202|dock_size(3,0,0)=169|dock_size(5,0,0)=18|dock_size(1,10,0)=25|dock_size(1,10,1)=25|
+2001293311 ;pos=157;prop=100000;bestw=185;besth=23;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=FortranProjectToolbar;caption=FortranProject Toolbar;state=2108156;dir=1;layer=10;row=1;pos=353;prop=100000;bestw=69;besth=23;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=IncrementalSearchToolbar;caption=IncrementalSearch Toolbar;state=2108156;dir=1;layer=10;row=1;pos=433;prop=100000;bestw=329;besth=23;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=NassiShneidermanPluginToolbar;caption=NassiShneidermanPlugin Toolbar;state=2108156;dir=1;layer=10;row=1;pos=773;prop=100000;bestw=393;besth=23;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ThreadSearchToolbar;caption=ThreadSearch Toolbar;state=2108156;dir=1;layer=10;row=1;pos=1177;prop=100000;bestw=176;besth=23;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=202|dock_size(3,0,0)=169|dock_size(5,0,0)=18|doc
+
+2001293311 0)=25|dock_size(1,10,1)=25|
 
 1553781021 source:c:\users\walid\onedrive\documents\github\trigonometry-assignment\trigonometry_assignment\opgave2.c
 	<stdio.h>
@@ -91,10 +93,10 @@
 
 1553786169 source:c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave2.c
 
-1553803766 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave1.h
+1554028615 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave1.h
 	"Bio.h"
 
-1553801844 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave2.h
+1554028615 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave2.h
 	"Bio.h"
 
 1553797893 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\bio.h
@@ -106,13 +108,13 @@
 1553803158 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\extra.h
 	"Bio.h"
 
-1553882612 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave3.h
+1554028615 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave3.h
 	"Bio.h"
 
-1553882612 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave4.h
+1554028615 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave4.h
 	"Bio.h"
 
-1553808376 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave5.h
+1554029121 c:\users\kenny\documents\github\trigonometry-assignment\trigonometry_assignment\opgave5.h
 	"Bio.h"
 
 1553844167 c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\bio.h

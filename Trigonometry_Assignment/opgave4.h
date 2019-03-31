@@ -1,5 +1,6 @@
 #include "Bio.h"
 #define PI 3.14159265358979323846
+
 void opgave4()
 {
     float c1=30, b1=14, C1=110, B1;
