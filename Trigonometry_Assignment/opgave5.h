@@ -3,9 +3,8 @@
 
 void opgave5()
 {
-    float a, b, c, angelA, angelB, angelC=90, val, val2;
-    val = 180 / PI;
-    val2 = PI / 180;
+    float a, b, c, angelA, angelB, angelC=90;
+
 
     printf("You chose to calculate the area of an arbitrary triangle.\n");
     printf("Enter side a: \n");
