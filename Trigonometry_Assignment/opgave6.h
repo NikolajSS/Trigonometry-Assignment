@@ -3,7 +3,7 @@
 
 void opgave6()
 {
-    float c2, b2, C2, B2;
+    float vinkel1, vinkel2, side, rside1, rside2;
 
 
 
