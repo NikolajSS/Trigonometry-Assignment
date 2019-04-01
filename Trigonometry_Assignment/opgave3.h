@@ -21,6 +21,7 @@ void opgave3()
     printf("Enter side a: \n");
     scanf("%f",&a2);
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
-    c2 = (sin(C1)*val)*(a1)/(sin(A1)*val);
+    c2 = (sin(C2)*val)*(a2)/(sin(A2)*val);
     printf("The area of the triangle is: %.2f\n", c2);
+    next();
 }

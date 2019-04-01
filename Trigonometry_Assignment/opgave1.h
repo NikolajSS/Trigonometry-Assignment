@@ -15,6 +15,7 @@ void opgave1()
     s = (a+b+c)/2;
     area = sqrt(s*(s-a)*(s-b)*(s-c));
     printf("The area of the triangle is: %f\n", area);
-};
+    next();
+}
 
 
