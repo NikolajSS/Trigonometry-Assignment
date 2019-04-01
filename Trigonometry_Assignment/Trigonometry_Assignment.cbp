@@ -34,25 +34,20 @@
 		<Unit filename="Bio.h" />
 		<Unit filename="Extra.h" />
 		<Unit filename="Opgaverne.h" />
-		<Unit filename="Prototype.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="opgave1.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="opgave1.h" />
-		<Unit filename="opgave2.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="opgave2.h" />
 		<Unit filename="opgave3.h" />
 		<Unit filename="opgave4.h" />
 		<Unit filename="opgave5.h" />
+		<Unit filename="opgave6.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
 			<debugger />
+			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>

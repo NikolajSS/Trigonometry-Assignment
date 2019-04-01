@@ -1,5 +1,6 @@
 #include "Bio.h"
 
+
 void opgave1()
 {
     float a, b, c, s, area;

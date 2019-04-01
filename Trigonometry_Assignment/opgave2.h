@@ -1,7 +1,6 @@
 #include "Bio.h"
 
 
-
 void opgave2()
 {
     float a, b, c, angelA, angelB, angelC;
