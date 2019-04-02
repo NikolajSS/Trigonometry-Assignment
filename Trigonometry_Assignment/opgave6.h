@@ -4,7 +4,6 @@
 void opgave6()
 {
     float vinkel1, vinkel2, vinkel3, side, rside1, rside2;
->>>>>>> 11f327172f8623bc8d851bf165d02a8d8004026d
 
     printf("You chose to calculate the area of an arbitrary triangle.\n");
     printf("Enter side c: \n");
