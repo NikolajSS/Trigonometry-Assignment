@@ -18,5 +18,4 @@ void opgave2()
     printf("The area of the triangle is: %.2f\n", angelA);
     printf("The area of the triangle is: %.2f\n", angelB);
     printf("The area of the triangle is: %.2f\n", angelC);
-    next();
 }

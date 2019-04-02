@@ -9,10 +9,3 @@ void loading()
     printf(".\n\n");
     Sleep(200);
 }
-
-void next()
-{
-    loading();
-    printf("\nTask completed, please pick different nummer for a different task\n\n");
-    main();
-}
