@@ -8,7 +8,8 @@
 int main()
 {
 int taskNumber;
-printf("This is a program that does trigonometry.\n");
+printf("This is a program that does trigonometry.\n\n");
+printf("To exit, press 0\n");
 printf("To calculate the area of an arbitrary triangle, press 1 (opgave 1)\n\n");
 scanf("%d", &taskNumber);
 
