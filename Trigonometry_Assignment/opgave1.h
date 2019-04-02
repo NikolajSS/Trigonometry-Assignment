@@ -14,7 +14,15 @@ void opgave1()
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
     s = (a+b+c)/2;
     area = sqrt(s*(s-a)*(s-b)*(s-c));
-    printf("The area of the triangle is: %f\n", area);
+
+    if (c < a+b && a < c+b && b < a+c)
+    {
+        printf("The area of the triangle is: %f\n", area);
+    }
+    else {
+        printf("It doesn't create triangle because one of the size is not long enough\n");
+        printf("But the area of the triangle is: %f\n", area);
+    }
     next();
 }
 
