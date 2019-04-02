@@ -3,7 +3,11 @@
 
 void opgave6()
 {
+<<<<<<< HEAD
     float vinkel1, vinkel2, rvinkel3, side, rside1, rside2;
+=======
+    float vinkel1, vinkel2, vinkel3, side, rside1, rside2;
+>>>>>>> 11f327172f8623bc8d851bf165d02a8d8004026d
 
     printf("You chose to calculate the area of an arbitrary triangle.\n");
     printf("Enter side c: \n");
@@ -14,11 +18,18 @@ void opgave6()
     scanf("%f",&side);
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
 
+<<<<<<< HEAD
     rvinkel3 = 180-vinkel1-vinkel2;
 
     rside1 = sin(rvinkel3*180/PI)*(vinkel1)/sin(side*180/PI);
     rside2 = asin((sin(C2*val2)*(b2)/(c2)))*val;
+=======
+    vinkel3= 180-vinkel1-vinkel2;
+    rside1 = (sin(vinkel2)*val)*(side)/(sin(vinkel1)*val);
+    rside2 =
+>>>>>>> 11f327172f8623bc8d851bf165d02a8d8004026d
     printf("The area of the triangle is: %.2f\n", B2);
+    next();
 }
 
 
