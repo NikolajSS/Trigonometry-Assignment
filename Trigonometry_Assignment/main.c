@@ -34,6 +34,9 @@ switch (taskNumber)
     case 5:
     opgave5();
     break;
+    case 0:
+    printf("Thank you");
+    break;
     default:
     printf("You have to input a number between 1 and 7\n");
     loading();
