@@ -24,6 +24,6 @@ void opgave3()
 
     c2 = (sin(C2)*val)*(a2)/(sin(A2)*val);
 
-    printf("The area of the triangle is: %.2f\n", c2);
+    printf("Side C of the triangle is: %.2f\n", c2);
     next();
 }

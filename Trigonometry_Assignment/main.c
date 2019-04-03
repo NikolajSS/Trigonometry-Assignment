@@ -46,7 +46,7 @@ switch (taskNumber)
     printf("Thank you");
     break;
     default:
-    printf("You have to input a number between 1 and 7\n");
+    printf("You have to input a number between 0 and 7\n");
     loading();
     main();
 }

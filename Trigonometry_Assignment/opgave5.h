@@ -16,8 +16,8 @@ void opgave5()
     angelA = asin(a/c)*val;
     angelB = asin(b/c)*val;
 
-    printf("The area of the triangle is: %.2f\n", angelA);
-    printf("The area of the triangle is: %.2f\n", angelB);
-    printf("The area of the triangle is: %.2f\n", angelC);
+    printf("Angel A of the triangle is: %.2f\n", angelA);
+    printf("Angel B of the triangle is: %.2f\n", angelB);
+    printf("Angel C of the triangle is: %.2f\n", angelC);
     next();
 }
