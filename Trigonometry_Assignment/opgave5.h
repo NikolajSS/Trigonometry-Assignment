@@ -6,7 +6,7 @@ void opgave5()
     float a, b, c, angelA, angelB, angelC=90;
 
 
-    printf("You chose to calculate the area of an arbitrary triangle.\n");
+    printf("You chose to calculate all angles of a right-angled triangle.\n");
     printf("Enter side a: \n");
     scanf("%f",&a);
     printf("Enter side b: \n");
