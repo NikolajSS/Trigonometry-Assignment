@@ -15,8 +15,8 @@ void opgave2()
     angelA = acos(((pow(b,2)+pow(c,2)-pow(a,2))/(2*b*c)))*180/PI;
     angelB = acos(((pow(a,2)+pow(c,2)-pow(b,2))/(2*a*c)))*180/PI;
     angelC = acos(((pow(a,2)+pow(b,2)-pow(c,2))/(2*a*b)))*180/PI;
-    printf("Angel A of the triangle is: %.2f\n", angelA);
-    printf("Angel B of the triangle is: %.2f\n", angelB);
-    printf("Angel C of the triangle is: %.2f\n", angelC);
+    printf("Angle A of the triangle is: %.2f\n", angelA);
+    printf("Angle B of the triangle is: %.2f\n", angelB);
+    printf("Angle C of the triangle is: %.2f\n", angelC);
     next();
 }

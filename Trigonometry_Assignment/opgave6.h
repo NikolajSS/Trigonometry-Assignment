@@ -10,7 +10,7 @@ void opgave6()
     scanf("%f",&vinkel1);
     printf("Enter side b: \n");
     scanf("%f",&vinkel2);
-    printf("Enter side C: \n");
+    printf("Enter angle C: \n");
     scanf("%f",&side);
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
 

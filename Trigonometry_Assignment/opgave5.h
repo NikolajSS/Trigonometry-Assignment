@@ -6,7 +6,7 @@ void opgave5()
     float a, b, c, angelA, angelB, angelC=90;
 
 
-    printf("You chose to calculate all angles of a right-angled triangle.\n");
+    printf("You chose to calculate all of the angles of a right-angled triangle.\n");
     printf("Enter side a: \n");
     scanf("%f",&a);
     printf("Enter side b: \n");
@@ -16,8 +16,8 @@ void opgave5()
     angelA = asin(a/c)*val;
     angelB = asin(b/c)*val;
 
-    printf("Angel A of the triangle is: %.2f\n", angelA);
-    printf("Angel B of the triangle is: %.2f\n", angelB);
-    printf("Angel C of the triangle is: %.2f\n", angelC);
+    printf("Angle A of the triangle is: %.2f\n", angelA);
+    printf("Angle B of the triangle is: %.2f\n", angelB);
+    printf("Angle C of the triangle is: %.2f\n", angelC);
     next();
 }

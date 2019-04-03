@@ -9,7 +9,7 @@ void opgave4()
     printf("You chose tco calculate an angel of an arbitrary triangle.\n");
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
     B1 = asin((sin(C1*val2)*(b1)/(c1)))*val;
-    printf("The area of the triangle is: %.2f\n", B1);
+    printf("Angle B of the triangle is: %.2f\n", B1);
 
 
 
@@ -18,12 +18,12 @@ void opgave4()
     scanf("%f",&c2);
     printf("Enter side b: \n");
     scanf("%f",&b2);
-    printf("Enter side C: \n");
+    printf("Enter angle C: \n");
     scanf("%f",&C2);
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
 
     B2 = asin((sin(C2*val2)*(b2)/(c2)))*val;
-    printf("Angel B of the triangle is: %.2f\n", B2);
+    printf("Angle B of the triangle is: %.2f\n", B2);
     next();
 }
 

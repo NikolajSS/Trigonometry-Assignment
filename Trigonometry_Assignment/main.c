@@ -14,7 +14,7 @@ printf("To calculate the area of an arbitrary triangle, press 1 (opgave 1)\n");
 printf("To calculate the 3 angles of an arbitrary triangle, press 2 (opgave 2)\n");
 printf("To calculate the last side of an arbitrary triangle, press 3 (opgave 3)\n");
 printf("To calculate an angel of an arbitrary triangle, press 4 (opgave 4)\n");
-printf("To calculate all angles of a right-angled triangle, press 5 (opgave 5)\n");
+printf("To calculate all of the angles of a right-angled triangle, press 5 (opgave 5)\n");
 printf("To calculate the area of an arbitrary triangle, press 6 (opgave 6)\n");
 printf("To calculate the area of an arbitrary triangle, press 7 (opgave 7)\n\n");
 
