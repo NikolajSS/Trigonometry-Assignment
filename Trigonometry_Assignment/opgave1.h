@@ -20,7 +20,7 @@ void opgave1()
         printf("The area of the triangle is: %f\n", area);
     }
     else {
-        printf("It doesn't construct triangle because one or two of the sides on the triangle are not long enough\n");
+        printf("Your sides don't construct an actual triangle\n");
         printf("But the area of the *fake* triangle is: %f\n", area);
     }
     next();

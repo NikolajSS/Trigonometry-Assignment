@@ -15,6 +15,6 @@ void loading()
 void next()
 {
     loading();
-    printf("\nTask completed, please pick different nummer for a different task\n\n");
+    printf("\nTask completed, please pick different number to perform a different task\n\n");
     main();
 }

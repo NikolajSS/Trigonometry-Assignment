@@ -8,7 +8,7 @@
 int main()
 {
 int taskNumber;
-printf("This is a program which does trigonometry.\n\n");
+printf("This is a program that does basic trigonometry.\n\n");
 printf("To exit, press 0\n");
 printf("To calculate the area of an arbitrary triangle, press 1 (opgave 1)\n");
 printf("To calculate the 3 angles of an arbitrary triangle, press 2 (opgave 2)\n");
@@ -52,6 +52,3 @@ switch (taskNumber)
 }
 
 }
-
-
-
