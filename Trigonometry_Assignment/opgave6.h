@@ -19,7 +19,8 @@ void opgave6()
     rside1 = (sin(vinkel2)*val)*(side)/(sin(vinkel1)*val);
     rside2 =asin((sin(C2*val2)*(b2)/(c2)))*val;
 
-    printf("The area of the triangle is: %.2f\n", B2);
+    printf("The area of the
+ triangle is: %.2f\n", B2);
     next();
 }
 

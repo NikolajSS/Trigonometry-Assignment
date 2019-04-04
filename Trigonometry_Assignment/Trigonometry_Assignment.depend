@@ -143,3 +143,39 @@
 
 1553844167 d9426a9d48260209b5ad4cfe84ce43a8581b8
 
+1554288428 source:c:\users\walid\onedrive\documents\github\trigonometry-assignment\trigonometry_assignment\main.c
+	"Bio.h"
+	"Opgaverne.h"
+	"Extra.h"
+
+1554288428 c:\users\walid\onedrive\documents\github\trigonometry-assignment\trigonometry_assignment\bio.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+
+1553859583 c:\users\walid\onedrive\documents\github\trigonometry-assignment\trigonometry_assignment\opgaverne.h
+	"opgave1.h"
+	"opgave2.h"
+	"opgave3.h"
+	"opgave4.h"
+	"opgave5.h"
+
+1554381800 c:\users\walid\onedrive\documents\github\trigonometry-assignment\trigonometry_assignment\opgave1.h
+	"Bio.h"
+
+1554288428 c:\users\walid\onedrive\documents\github\trigonometry-assignment\trigonometry_assignment\opgave2.h
+	"Bio.h"
+
+1554382031 c:\users\walid\onedrive\documents\github\trigonometry-assignment\trigonometry_assignment\opgave3.h
+	"Bio.h"
+
+1554288428 c:\users\walid\onedrive\documents\github\trigonometry-assignment\trigonometry_assignment\opgave4.h
+	"Bio.h"
+
+1554288428 c:\users\walid\onedrive\documents\github\trigonometry-assignment\trigonometry_assignment\opgave5.h
+	"Bio.h"
+
+1554288428 c:\users\walid\onedrive\documents\github\trigonometry-assignment\trigonometry_assignment\extra.h
+	"Bio.h"
+
