@@ -14,7 +14,7 @@ void opgave3()
 
 
     printf("You chose to calculate the last side of an arbitrary triangle.\n");
-    printf("Enter side A: \n");
+    printf("Enter angle A: \n");
     scanf("%f",&A2);
     printf("Enter angle C: \n");
     scanf("%f",&C2);
