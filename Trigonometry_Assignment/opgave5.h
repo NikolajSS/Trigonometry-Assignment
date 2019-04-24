@@ -15,9 +15,9 @@ void opgave5()
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
     angelA = asin(a/c)*val;
     angelB = asin(b/c)*val;
+    printf("\n");
 
-
-        if (a > 0 && b > 0)
+    if (a > 0 && b > 0)
     {
         printf("Angle A of the triangle is: %.2f\n", angelA);
         printf("Angle B of the triangle is: %.2f\n", angelB);
