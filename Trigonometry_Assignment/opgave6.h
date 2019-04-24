@@ -22,15 +22,15 @@ void opgave6()
 
     if (rside2 < side+rside1 && side < rside2+rside1 && rside1 < side+rside2 && vinkel1+vinkel2 < 180)
     {
-        printf("One of the sides of the triangle is: %.2f\n", rside1);
-        printf("The other side of the triangle is: %.2f\n", rside2);
-        printf("The angle of the triangle is: %.2f\n", rvinkel3);
+        printf("One of the unknown sides of the triangle is: %.2f\n", rside1);
+        printf("The other unknown side of the triangle is: %.2f\n", rside2);
+        printf("The unknown angle of the triangle is: %.2f\n", rvinkel3);
     }
     else {
         printf("The entered value(s) will not construct an actual triangle\n");
-        printf("But one of the sides of the *fake* triangle is: %.2f\n", rside1);
-        printf("The other side of the *fake* triangle is: %.2f\n", rside2);
-        printf("The angle of the *fake* triangle is: %.2f\n", rvinkel3);
+        printf("But one of the unknown sides of the *fake* triangle is: %.2f\n", rside1);
+        printf("The other unknown side of the *fake* triangle is: %.2f\n", rside2);
+        printf("The unknown angle of the *fake* triangle is: %.2f\n", rvinkel3);
     }
 
     next();
