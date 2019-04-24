@@ -1,5 +1,6 @@
 #include "Bio.h"
 
+//Makes the program look like it's loading. Sorry.
 void loading()
 {
     printf("\nLoading");
@@ -12,6 +13,7 @@ void loading()
     Sleep(200);
 }
 
+//Makes the program go to main, so that a new task can be picked
 void next()
 {
     loading();

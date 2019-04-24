@@ -3,6 +3,7 @@
 
 void opgave2()
 {
+    //declare variables
     float a, b, c, angelA, angelB, angelC;
     printf("You chose to calculate the 3 angles of an arbitrary triangle.\n");
     printf("Enter side a: \n");
@@ -11,11 +12,13 @@ void opgave2()
     scanf("%f",&b);
     printf("Enter side c: \n");
     scanf("%f",&c);
-    // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
+
+    // Cosine-relation: A = acos((b^2+c^2-a^2)/2*b*c). Calculates the angles
     angelA = acos(((pow(b,2)+pow(c,2)-pow(a,2))/(2*b*c)))*val;
     angelB = acos(((pow(a,2)+pow(c,2)-pow(b,2))/(2*a*c)))*val;
     angelC = acos(((pow(a,2)+pow(b,2)-pow(c,2))/(2*a*b)))*val;
 
+    //Filter out wrong input
     if (c < a+b && a < c+b && b < a+c)
     {
         printf("Angle A of the triangle is: %.2f\n", angelA);

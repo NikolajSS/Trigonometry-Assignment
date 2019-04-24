@@ -3,6 +3,7 @@
 
 void opgave5()
 {
+    //declare variables
     float a, b, c, angelA, angelB, angelC=90;
 
 
@@ -11,12 +12,15 @@ void opgave5()
     scanf("%f",&a);
     printf("Enter side b: \n");
     scanf("%f",&b);
+
+    //Pythagoras: c = sqrt(a^2+b^2)
     c = sqrt(pow(a,2)+pow(b,2));
-    // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
+    //i en retvinklet trekant gælder det at: sin(A)=a/c
     angelA = asin(a/c)*val;
     angelB = asin(b/c)*val;
     printf("\n");
 
+    //Filter out wrong output
     if (a > 0 && b > 0)
     {
         printf("Angle A of the triangle is: %.2f\n", angelA);
