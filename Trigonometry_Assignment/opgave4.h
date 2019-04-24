@@ -7,7 +7,7 @@ void opgave4()
     float c1=30, b1=14, C1=110, B1;
     float c2, b2, C2, B2;
 
-    printf("You chose to calculate an angel of an arbitrary triangle.\n\n");
+    printf("You chose to calculate an angle of an arbitrary triangle.\n\n");
 
     ///sinus-relationen: B = sin^-1(sin(C)/c*b)
     B1 = asin((sin(C1*val2)*(b1)/(c1)))*val;
