@@ -8,11 +8,11 @@ void opgave6()
     float vinkel1, vinkel2, rvinkel3, side, rside1, rside2;
 
     printf("You chose to calculate the two missing sides and one missing angle of an arbitrary triangle.\n");
-    printf("Enter angel: \n");
+    printf("Enter angle A: \n");
     scanf("%f",&vinkel1);
-    printf("Enter angel: \n");
+    printf("Enter angle B: \n");
     scanf("%f",&vinkel2);
-    printf("Enter side: \n");
+    printf("Enter side a: \n");
     scanf("%f",&side);
 
 

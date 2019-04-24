@@ -7,7 +7,7 @@ void opgave5()
     float a, b, c, angelA, angelB, angelC=90;
 
 
-    printf("You chose to calculate all of the angles of a right-angled triangle.\n");
+    printf("You chose to calculate all of the angles of a right-angled triangle.\nBecause it is a right-angles triangle, angle C is set to be 90 degrees\n");
     printf("Enter side a: \n");
     scanf("%f",&a);
     printf("Enter side b: \n");
