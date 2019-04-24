@@ -10,7 +10,7 @@ void opgave3()
     printf("You chose to calculate the last side of an arbitrary triangle.\n\n");
     // sinus-relationen: c = (sin(C)*a)/sin(A)
 
-    c1 = (sin(C1)*val)*(a1)/(sin(A1)*val);
+    c1 = (sin(C1*val2)*(a1)/(sin(A1*val2)));
 
     //input given in task
     printf("The triangle with:\n");
@@ -33,7 +33,7 @@ void opgave3()
 
     // sinus-relationen: c = (sin(C)*a)/sin(A)
 
-    c2 = (sin(C2)*val)*(a2)/(sin(A2)*val);
+    c2 = (sin(C2*val2)*(a2)/(sin(A2*val2)));
 
     //Filter out wrong input
     if (A2+C2 < 180 && A2 > 0 && C2 > 0 && a2 > 0)
