@@ -35,17 +35,19 @@
 	<stdlib.h>
 	<windows.h>
 
-1554382222 source:c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\main.c
+1556120933 source:c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\main.c
 	"Bio.h"
 	"Opgaverne.h"
 	"Extra.h"
 
-1553850891 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgaverne.h
+1556120351 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgaverne.h
 	"opgave1.h"
 	"opgave2.h"
 	"opgave3.h"
 	"opgave4.h"
 	"opgave5.h"
+	"opgave6.h"
+	"opgave7.h"
 
 1553782228 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave1.c
 	"Prototype.h"
@@ -190,24 +192,30 @@
 	<stdlib.h>
 	<windows.h>
 
-1554382222 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave1.h
+1556122019 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave1.h
 	"Bio.h"
 
-1554382222 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave2.h
+1556120351 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave2.h
 	"Bio.h"
 
-1554382222 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave3.h
+1556120351 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave3.h
 	"Bio.h"
 
-1554382222 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave4.h
+1556120351 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave4.h
 	"Bio.h"
 
-1554382222 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave5.h
+1556120351 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave5.h
 	"Bio.h"
 
-1554382222 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\extra.h
+1556121826 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\extra.h
 	"Bio.h"
 
 1556114774 c:\users\tamle\documents\github\trigonometry-assignment\trigonometry_assignment\opgave6.h
+	"Bio.h"
+
+1556120351 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave6.h
+	"Bio.h"
+
+1556120351 c:\users\nikolaj\source\repos\trigonometry-assignment\trigonometry_assignment\opgave7.h
 	"Bio.h"
 

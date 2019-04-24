@@ -20,7 +20,7 @@ printf("To calculate the area of an arbitrary triangle, press 7 (opgave 7)\n\n")
 
 scanf("%d", &taskNumber);
 
-printf("\nYou chose the nummer %d\n", taskNumber);
+printf("\nYou chose task: %d\n", taskNumber);
 
 loading();
 

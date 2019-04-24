@@ -12,18 +12,15 @@ void opgave1()
     printf("Enter side c: \n");
     scanf("%f",&c);
     // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
-    s = (a+b+c)/2;
+    s = (a+b+c)/2.0;
     area = sqrt(s*(s-a)*(s-b)*(s-c));
-
-    if (c < a+b && a < c+b && b < a+c)
+    if (a<0 || b<0 || c<0 || a+b<c || a+c<b || b+c<a)
     {
-        printf("The area of the triangle is: %f\n", area);
+        printf("The entered value(s) will not construct an actual triangle\n");
+        printf("But the area of the *fake* triangle is: %.2f\n", area);
     }
     else {
-        printf("The entered value(s) will not construct an actual triangle\n");
-        printf("But the area of the *fake* triangle is: %f\n", area);
+        printf("The area of the triangle is: %.2f\n", area);
     }
     next();
 }
-
-
