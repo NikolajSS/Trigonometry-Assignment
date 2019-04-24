@@ -15,8 +15,19 @@ void opgave2()
     angelA = acos(((pow(b,2)+pow(c,2)-pow(a,2))/(2*b*c)))*180/PI;
     angelB = acos(((pow(a,2)+pow(c,2)-pow(b,2))/(2*a*c)))*180/PI;
     angelC = acos(((pow(a,2)+pow(b,2)-pow(c,2))/(2*a*b)))*180/PI;
-    printf("Angle A of the triangle is: %.2f\n", angelA);
-    printf("Angle B of the triangle is: %.2f\n", angelB);
-    printf("Angle C of the triangle is: %.2f\n", angelC);
+
+    if (c < a+b && a < c+b && b < a+c)
+    {
+        printf("Angle A of the triangle is: %.2f\n", angelA);
+        printf("Angle B of the triangle is: %.2f\n", angelB);
+        printf("Angle C of the triangle is: %.2f\n", angelC);
+    }
+    else {
+        printf("The entered sides don't construct an actual triangle\n");
+        printf("But the angles of the *fake* triangle are:\n");
+        printf("Angle A of the triangle is: %.2f\n", angelA);
+        printf("Angle B of the triangle is: %.2f\n", angelB);
+        printf("Angle C of the triangle is: %.2f\n", angelC);
+    }
     next();
 }

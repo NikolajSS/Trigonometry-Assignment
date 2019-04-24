@@ -24,6 +24,15 @@ void opgave3()
 
     c2 = (sin(C2)*val)*(a2)/(sin(A2)*val);
 
-    printf("Side c of the triangle is: %.2f\n", c2);
+
+    if (A2+C2 < 180)
+    {
+        printf("Side c of the triangle is: %.2f\n", c2);
+    }
+    else {
+        printf("The entered angles don't construct an actual triangle\n");
+        printf("But the side c of the *fake* triangle is: %.2f\n", c2);
+    }
+
     next();
 }

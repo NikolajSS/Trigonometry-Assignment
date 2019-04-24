@@ -42,6 +42,9 @@ switch (taskNumber)
     case 5:
     opgave5();
     break;
+   /* case 6:
+    opgave6();
+    break;*/
     case 0:
     printf("Thank you");
     break;
