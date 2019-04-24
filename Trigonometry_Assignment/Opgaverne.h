@@ -4,4 +4,5 @@
 #include "opgave4.h"
 #include "opgave5.h"
 #include "opgave6.h"
+#include "opgave7.h"
 

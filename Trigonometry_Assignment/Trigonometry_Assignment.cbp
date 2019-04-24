@@ -43,6 +43,7 @@
 		<Unit filename="opgave4.h" />
 		<Unit filename="opgave5.h" />
 		<Unit filename="opgave6.h" />
+		<Unit filename="opgave7.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
