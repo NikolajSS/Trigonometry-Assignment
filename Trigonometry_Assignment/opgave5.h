@@ -26,9 +26,9 @@ void opgave5()
     else {
         printf("The entered value(s) will not construct an actual triangle\n");
         printf("But the angles of the *fake* right-angled triangle are:\n");
-        printf("Angle A of the triangle is: %.2f\n", angelA);
-        printf("Angle B of the triangle is: %.2f\n", angelB);
-        printf("Angle C of the triangle is: %.2f\n", angelC);
+        printf("Angle A of the *fake* triangle is: %.2f\n", angelA);
+        printf("Angle B of the *fake* triangle is: %.2f\n", angelB);
+        printf("Angle C of the *fake* triangle is: %.2f\n", angelC);
     }
 
     next();
