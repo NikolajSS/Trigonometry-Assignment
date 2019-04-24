@@ -3,7 +3,9 @@
 
 void opgave6()
 {
-    float vinkel1, vinkel2, rvinkel3, side, rside1, rside2, test;
+
+    //declare variables
+    float vinkel1, vinkel2, rvinkel3, side, rside1, rside2;
 
     printf("You chose to calculate the two missing sides and one missing angle of an arbitrary triangle.\n");
     printf("Enter angel: \n");
@@ -12,14 +14,16 @@ void opgave6()
     scanf("%f",&vinkel2);
     printf("Enter side: \n");
     scanf("%f",&side);
-    // Herons formel: sqrt(s*(s-a)*(s-b)*(s-c) hvor s = (a+b+c)/2
 
 
+    //angle A = 180 - Angle B - Angle C
     rvinkel3= 180-vinkel1-vinkel2;
+
+    //sinusrelation: a = sin(A)*(b/sin(B)
     rside1 = sin(vinkel2*val2)*((side)/(sin(vinkel1*val2)));
-   // rside2 = asin((sin(C2*val2)*(b2)/(c2)))*val;
     rside2 = sin(rvinkel3*val2)*((rside1)/(sin(vinkel2*val2)));
 
+    //Filter out wrong input
     if (rside2 < side+rside1 && side < rside2+rside1 && rside1 < side+rside2 && vinkel1+vinkel2 < 180)
     {
         printf("One of the unknown sides of the triangle is: %.2f\n", rside1);
