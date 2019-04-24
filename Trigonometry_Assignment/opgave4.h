@@ -32,12 +32,12 @@ void opgave4()
     B2 = asin((sin(C2*val2)*(b2)/(c2)))*val;
 
 
-    if (C2 < 180 && C2 > 0)
+    if (C2 < 180 && C2 > 0 && b2 > 0 && c2 > 0)
     {
-        printf("Angle B of the triangle is: %.2f\n", B2);
+        printf("\nAngle B of the triangle is: %.2f\n", B2);
     }
     else {
-        printf("\nThe entered angle don't construct an actual triangle\n");
+        printf("\nThe entered value(s) will not construct an actual triangle\n");
         printf("But the angle B of the *fake* triangle is: %.2f\n", B2);
     }
     next();
