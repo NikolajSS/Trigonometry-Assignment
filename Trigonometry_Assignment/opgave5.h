@@ -16,8 +16,20 @@ void opgave5()
     angelA = asin(a/c)*val;
     angelB = asin(b/c)*val;
 
-    printf("Angle A of the triangle is: %.2f\n", angelA);
-    printf("Angle B of the triangle is: %.2f\n", angelB);
-    printf("Angle C of the triangle is: %.2f\n", angelC);
+
+        if (a > 0 && b > 0)
+    {
+        printf("Angle A of the triangle is: %.2f\n", angelA);
+        printf("Angle B of the triangle is: %.2f\n", angelB);
+        printf("Angle C of the triangle is: %.2f\n", angelC);
+    }
+    else {
+        printf("The entered value(s) will not construct an actual triangle\n");
+        printf("But the angles of the *fake* right-angled triangle are:\n");
+        printf("Angle A of the triangle is: %.2f\n", angelA);
+        printf("Angle B of the triangle is: %.2f\n", angelB);
+        printf("Angle C of the triangle is: %.2f\n", angelC);
+    }
+
     next();
 }
